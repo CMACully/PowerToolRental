@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Power Tool Rental</string>
+    <string name="txtTitle">Rental Days Submission</string>
+    <string name="txtNumOfDays">Num of days to Rent</string>
+    <string name="radPowerWasher">Power Washer</string>
+    <string name="radTiller">Tiller</string>
+    <string name="btnComputeCost">Compute Cost</string>
+</resources>
